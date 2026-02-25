@@ -5,17 +5,17 @@
         <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
     </head>
     <body>
-        <h1>Blog title</h1>
-        <p>This paragraph summarises what the blog is about.</p>
-        <h2>Article 1 title</h2>
-        <div>dd Mon YYYY</div>
-        <p>A paragraph summarising article 1.</p>
+        <h1>Butterfly-Ship blog</h1>
+        <p>For now I don't know what this blog is about.</p>
+        <h2>Article 1</h2>
+        <div>25 February 2026</div>
+        <p>Just testing.</p>
         <p>
             <a href="#">Read more...</a>
         </p>
-        <h2>Article 2 title</h2>
-        <div>dd Mon YYYY</div>
-        <p>A paragraph summarising article 2.</p>
+        <h2>Article 2</h2>
+        <div>25 February 2027</div>
+        <p>Greetings from the future.</p>
         <p>
             <a href="#">Read more...</a>
         </p>
