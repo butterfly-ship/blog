@@ -14,10 +14,8 @@ body {
 
         }
 
-        .navbar {
-            border-radius: 0;
-        }
-
-        .nav-bottom {
-            bottom: -270px;
-        }
+            ul {
+              list-style-type: none;
+              margin: 0;
+              padding: 0;
+            }
