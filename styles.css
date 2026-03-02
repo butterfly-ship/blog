@@ -1,42 +1,15 @@
 body {
-            margin: 0;
-            padding: 0;
-            font: "Courier New", Courier, monospace;
-        }
-
-        .header {
-            max-width: 100%;
-            position: relative;
-            height: 280px;
-            background-image: url("michelle_pitzel-ship-952292_640.jpg");
-            background-position: center;
-            background-repeat: no-repeat;
-            background-size: 100%;
-
-        }
-
-        .content {
-            text-align: center;
-            font: "Courier New", Courier, monospace;
-        }
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  background-color: #333333;
-  display: flex;
-}
-
-ul li a {
-  display: block;
-  color: white;
-  padding: 14px 16px;
-  text-decoration: none;
-  text-align: center;
+  margin-left: 200px;
+  background: #5d9ab2 url("michelle_pitzel-ship-952292_640.jpg") no-repeat top left;
   font: "Courier New", Courier, monospace;
 }
 
-ul li a:hover {
-  background-color: #111111;
+.center_div {
+  border: 1px solid gray;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  background-color: #d0f0f6;
+  text-align: left;
+  padding: 8px;
 }
