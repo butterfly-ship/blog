@@ -17,6 +17,7 @@ body {
 
         .content {
             text-align: center;
+            font: "Courier New", Courier, monospace;
         }
 
 ul {
