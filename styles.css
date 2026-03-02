@@ -17,3 +17,18 @@ body {
   text-align: left;
   padding: 8px;
 }
+
+div.kuva {
+  margin: 5px;
+  border: 1px solid #ccc;
+  width: 180px;
+}
+
+div.kuva:hover {
+  border: 1px solid #777;
+}
+
+div.kuva img {
+  width: 100%;
+  height: auto;
+}
