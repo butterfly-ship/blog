@@ -18,10 +18,12 @@ div.kuva {
   margin: 5px;
   border: 1px solid #ccc;
   width: 180px;
+  opacity: 0.5;
 }
 
 div.kuva:hover {
   border: 1px solid #777;
+  opacity: 1.0;
 }
 
 div.kuva img {
