@@ -6,7 +6,6 @@ body {
   font-family: Arial;
   padding: 20px;
   background: #f1f1f1;
-  border: 1px solid black;
 }
 
 /* Header/Blog Title */
@@ -15,7 +14,6 @@ body {
   font-size: 40px;
   text-align: center;
   background: white;
-  border: 1px solid black;
 }
 
 /* Create two unequal columns that floats next to each other */
@@ -23,7 +21,6 @@ body {
 .content {
   float: left;
   width: 75%;
-  border: 1px solid black;
 }
 
 /* Right column */
@@ -31,7 +28,6 @@ body {
   float: right;
   width: 25%;
   padding-left: 20px;
-  border: 1px solid black;
 }
 
 /* Fake image */
@@ -39,7 +35,6 @@ body {
   background-color: #aaa;
   width: 100%;
   padding: 20px;
-  border: 1px solid black;
 }
 
 /* Add a card effect for articles */
@@ -47,7 +42,6 @@ body {
   background-color: white;
   padding: 20px;
   margin-top: 20px;
-  border: 1px solid black;
 }
 
 /* Clear floats after the columns */
@@ -55,7 +49,6 @@ body {
   content: "";
   display: table;
   clear: both;
-  border: 1px solid black;
 }
 
 /* Footer */
@@ -64,7 +57,6 @@ body {
   text-align: center;
   background: #ddd;
   margin-top: 20px;
-  border: 1px solid black;
 }
 
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
