@@ -33,7 +33,7 @@ body {
 /* Fake image */
 .img {
   background-color: #aaa;
-  width: 100%;
+  width: cover;
   padding: 20px;
 }
 
